@@ -1,0 +1,30 @@
+body{
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+    font-family: 'Josefin Sans', sans-serif;
+    background: linear-gradient(rgba(33, 3, 3, 0.131), rgba(23, 1, 1, 0.131)), url(images/subway-img.jpg);
+    background-size: cover;
+}
+
+
+button{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 12px 18px;
+    margin-top: 5px;
+    background: rgb(37, 73, 51);
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+    border-radius: 10px;
+}
+#save-btn{
+    background: rgb(65, 24, 72);   
+}
+ 
+h1, h2, p{
+    font-size: 3rem;
+    text-shadow: 4px 4px 2px black;
+}
